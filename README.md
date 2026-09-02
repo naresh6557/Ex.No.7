@@ -1,4 +1,4 @@
--# Ex.No.7 – Prompt-Based Application Development
+# Ex.No.7 – Prompt-Based Application Development
 
 **Date:02-09-2026**  
 **Regis-ter Number:212224040213**  
